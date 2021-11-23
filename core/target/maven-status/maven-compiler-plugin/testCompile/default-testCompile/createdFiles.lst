@@ -1,0 +1,5 @@
+com/apple/core/models/HelloWorldModelTest.class
+com/apple/core/schedulers/SimpleScheduledTaskTest.class
+com/apple/core/filters/LoggingFilterTest.class
+com/apple/core/servlets/SimpleServletTest.class
+com/apple/core/listeners/SimpleResourceListenerTest.class

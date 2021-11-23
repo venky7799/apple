@@ -1,0 +1,14 @@
+Manifest-Version: 1.0
+Created-By: Apache Jackrabbit FileVault - Package Maven Plugin 1.1.4
+Build-Jdk-Spec: 11
+Implementation-Title: Apple - UI content
+Implementation-Version: 1.0.0-SNAPSHOT
+Content-Package-Type: content
+Content-Package-Id: com.apple:apple.ui.content:1.0.0-SNAPSHOT
+Content-Package-Description: UI content package for Apple
+Content-Package-Dependencies: com.apple:apple.ui.apps:1.0.0-SNAPSHOT
+Content-Package-Dependencies-Locations: com.apple:apple.ui.apps:1.0.0-SN
+ APSHOT=maven:com.apple:apple.ui.apps:1.0.0-SNAPSHOT:zip
+Content-Package-Roots: /conf/apple,/content/apple,/content/dam/apple,/co
+ ntent/experience-fragments/apple
+

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Apple - All</comment>
+<entry key="cloudManagerTarget">all</entry>
+<entry key="allowIndexDefinitions">false</entry>
+<entry key="created">2021-11-23T10:53:37.884Z</entry>
+<entry key="groupId">com.apple</entry>
+<entry key="name">apple.all</entry>
+<entry key="description">All content package for Apple</entry>
+<entry key="artifactId">apple.all</entry>
+<entry key="version">1.0.0-SNAPSHOT</entry>
+<entry key="packageType">container</entry>
+<entry key="requiresRoot">false</entry>
+<entry key="group">com.apple</entry>
+</properties>
